@@ -19,8 +19,8 @@ import java.util.Scanner;
 public abstract class Utils {
     private static final String TAG = Utils.class.getSimpleName();
 
-    private static final String API_KEY_V3 = "29b1a5c8be0fa23b8155f30f84c81ce5";
-    private static final String API_READ_ACCESS_TOKEN_V4 = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyOWIxYTVjOGJlMGZhMjNiODE1NWYzMGY4NGM4MWNlNSIsInN1YiI6IjVlOWVjOWUwMjc5MGJmMDAyNTA3YjE1ZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.XEUTJWSktMm4z8x0EkKrxVjmcURCuoNXlUI-4mu8xxM";
+    private static final String API_KEY_V3 = "";
+    private static final String API_READ_ACCESS_TOKEN_V4 = "";
 
     private static final String BASE_URL = "https://api.themoviedb.org/3/movie/";
 
