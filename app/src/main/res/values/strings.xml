@@ -1,0 +1,27 @@
+<resources>
+    <string name="dummy_original_title">Interstellar</string>
+    <string name="dummy_original_language">English</string>
+    <string name="dummy_release_date">November 5, 2014</string>
+    <string name="dummy_overview">Interstellar is a 2014 epic science fiction film directed, co-written and co-produced by Christopher Nolan. It stars Matthew McConaughey, Anne Hathaway, Jessica Chastain, Bill Irwin, Ellen Burstyn, and Michael Caine. Set in a dystopian future where humanity is struggling to survive, the film follows a group of astronauts who travel through a wormhole near Saturn in search of a new home for humanity.</string>
+
+    <string name="dummy_author">Frank Ochieng</string>
+
+    <string name="app_name">Popular Movies</string>
+    <string name="movie_detail">Movie Details</string>
+    <string name="action_sort">Sort</string>
+    <string name="action_sort_popularity">Sort most popular</string>
+    <string name="action_sort_rating">Sort top rated</string>
+    <string name="mark_as_favorite">Mark as favorite</string>
+    <string name="mark_not_favorite">Mark not favorite</string>
+    <string name="trailers">Trailers</string>
+    <string name="related_videos">Related videos</string>
+    <string name="overview">Overview</string>
+    <string name="release_date">Release date</string>
+    <string name="user_rating">User rating</string>
+    <string name="reviews">Reviews</string>
+    <string name="total_reviews">total</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="reviews_empty">There is no reviews yet</string>
+    <string name="movies_empty">There is no movies yet</string>
+</resources>
